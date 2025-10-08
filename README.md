@@ -38,11 +38,17 @@ It allows users to perform basic banking operations such as checking balance, de
 Enter your PIN: 1234
 
 Check Balance
+
 Withdraw
+
 Deposit
+
 Exit
+
 Enter your choice: 2
+
 Enter amount to withdraw: 500
+
 Transaction successful! Remaining balance: 3500
 
 
@@ -52,6 +58,3 @@ Transaction successful! Remaining balance: 3500
 **Aqsa**  
 🎓 BS Data Science Student | Beginner Java Developer  
 🌐 [https://github.com/aqsakhan6124-maker]
-
-Enter amount to withdraw: 500
-Transaction successful! Remaining balance: 350
